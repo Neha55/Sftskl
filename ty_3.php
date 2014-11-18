@@ -1,0 +1,86 @@
+<?php
+
+mysql_connect("localhost","root","");
+mysql_select_db("ty");
+
+mysql_query("insert into ty_class values('1','NATKAR RAMRAO KISHANRAO')");
+mysql_query("insert into ty_class values('2','BAGWAN ASMA MUSHTAK')");
+mysql_query("insert into ty_class values('3','BHUTADA SHUBHAM SHIRISHKUMAR')");
+mysql_query("insert into ty_class values('4','BHANDWALKAR AKASH ANNASAHEB')");
+mysql_query("insert into ty_class values('6','BHIRUD BHAGYASHRI PURUSHOTTAM')");
+mysql_query("insert into ty_class values('7','BHOSLE HARSHAL NARAYANRAO')");
+mysql_query("insert into ty_class values('9','CHAVAN KANCHAN DHANSING')");
+mysql_query("insert into ty_class values('10','CHIDRAWAR ARJUN DILIPRAO')");
+mysql_query("insert into ty_class values('11,'DEOKATE SAURABH DADASAHEB')");
+mysql_query("insert into ty_class values('12','MULEY SUVARNA TIPANNA')");
+mysql_query("insert into ty_class values('13','DADGE KETKI KALLAPPA')");
+mysql_query("insert into ty_class values('15','NANDKULE SHAILESH VISHWASHWARAPPA')");
+mysql_query("insert into ty_class values('16','RAI VAIBHAV RAMPRAVESH')");
+mysql_query("insert into ty_class values('17','PETEKAR ABHISHEK LAXMAN')");
+mysql_query("insert into ty_class values('18','IGAVE SWAPNIL ANIL')");
+mysql_query("insert into ty_class values('19','GHADGE NIKHIL MACHINDRA')");
+mysql_query("insert into ty_class values('20','NIKAM ABHAY GAJANAN')");
+mysql_query("insert into ty_class values('21','JADHAV KAUSTUBH RAMESH')");
+mysql_query("insert into ty_class values('23','JOSHI SUCHITA SUNIL')");
+mysql_query("insert into ty_class values('26','NAIK PRITISH UDAY')");
+mysql_query("insert into ty_class values('27','VAGYANI PRATIK APPASO')");
+mysql_query("insert into ty_class values('28','KSHIRSAGAR MEGHA BALASAHEB')");
+mysql_query("insert into ty_class values('30','JADHAV PIYUSHA SURESH')");
+mysql_query("insert into ty_class values('31','SALUNKHE PRANJALI PRAKASH')");
+mysql_query("insert into ty_class values('35','TAMBOLI NAZNEEN ASLAM')");
+mysql_query("insert into ty_class values('36','MALAWADE PADMAJA MAHAVEER')");
+mysql_query("insert into ty_class values('38','MULUK GITANJALI REVANNATH')");
+
+
+mysql_query("insert into ty_class values('41','NIKITA VIJAY LOTAKE')");
+mysql_query("insert into ty_class values('42','PATIL TEJASWINI AKARAM')");
+mysql_query("insert into ty_class values('43','KORE PRIYANKA ANIL')");
+mysql_query("insert into ty_class values('44','KHADILKAR AKSHATA ANIL')");
+mysql_query("insert into ty_class values('45','PAWAR SATISH PRAKASH')");
+mysql_query("insert into ty_class values('46','PAWAR PRIYANKA BALASAHEB')");
+mysql_query("insert into ty_class values('47','PISE PRASAD PRAMOD')");
+mysql_query("insert into ty_class values('48','KULKARNI VRISHALI VIJAY')");
+mysql_query("insert into ty_class values('49','DHANAWADE AMRUTA AMARDEEP')");
+mysql_query("insert into ty_class values('51','THAKRE ANIKET VIJAY')");
+mysql_query("insert into ty_class values('52','THORAT VISHAL BALIRAM')");
+mysql_query("insert into ty_class values('53','THORAT SWATI BHANUDAS')");
+mysql_query("insert into ty_class values('54','VARPE KUNAL VIJAY')");
+mysql_query("insert into ty_class values('55','BIDKAR NEHA MUKUND')");
+mysql_query("insert into ty_class values('56','YADAV PRIYANKA GANESH')");
+mysql_query("insert into ty_class values('58','BOLAJ ABHISHEK VINOD')");
+mysql_query("insert into ty_class values('59','PATIL MADHURI VASANTRAO')");
+mysql_query("insert into ty_class values('61','PATIL SNEHAL SUNIL')");
+mysql_query("insert into ty_class values('64','GANDHI SAURABH SANJAY')");
+mysql_query("insert into ty_class values('65','KATTE ABHISHEK YOGIRAJ')");
+mysql_query("insert into ty_class values('66','SHRUTI MADHUKAR KOSHTI')");
+mysql_query("insert into ty_class values('67','SHAH PRIYANK DEEPAK')");
+mysql_query("insert into ty_class values('69','SHIVANI ABRAR ABID')");
+mysql_query("insert into ty_class values('70','KAREWAR RESHMA VINODKUMAR')");
+mysql_query("insert into ty_class values('71','KORE MANISHA TANAJI')");
+mysql_query("insert into ty_class values('72','VELHAL PRAJAKTA BALASAHEB')");
+
+
+mysql_query("insert into ty_class values('73','UNDURE SANGEETA RAJARAM')");
+mysql_query("insert into ty_class values('74','SHINDE UTTAM BANDU')");
+mysql_query("insert into ty_class values('75','JADHAV SACHIN SHANKAR')");
+mysql_query("insert into ty_class values('76','PATIL DHANASHRI RAVASAHEB')");
+mysql_query("insert into ty_class values('77','ZIRPE RAHUL BHAIRAVNATH')");
+mysql_query("insert into ty_class values('78','KARAJGIKAR NIKITA SHASHIKANT')");
+mysql_query("insert into ty_class values('79','CHOUDHARI AMIT GOPAL')");
+mysql_query("insert into ty_class values('80','PATIL SANMATI HIRGONDA')");
+mysql_query("insert into ty_class values('81','SAJANE PALLAVI ANANDARAO')");
+mysql_query("insert into ty_class values('82','PATIL PRIYANKA ANNASAHEB')");
+mysql_query("insert into ty_class values('83','KADAM VINAYAK RAMCHANDRA')");
+mysql_query("insert into ty_class values('84','GADEKAR BHUSHAN DILLIP')");
+mysql_query("insert into ty_class values('85','GIRI PALLAVI BHAGWAT')");
+mysql_query("insert into ty_class values('86','BORAMANIKAR MORESHWAR VITTHAL')");
+mysql_query("insert into ty_class values('87','WAGH VIVEK TRYAMBAK')");
+mysql_query("insert into ty_class values('88','GUNJAL BHUSHAN NIVRUTTI')");
+mysql_query("insert into ty_class values('89','DIWAN SHUBHAM SANJAY')");
+mysql_query("insert into ty_class values('90','GHONGADI SONIA SUHAS')");
+mysql_query("insert into ty_class values('91','KAMBLE VIDYA MARUTI')");
+mysql_query("insert into ty_class values('92','POWAR AMAR DHONDIRAM')");
+mysql_query("insert into ty_class values('93','GAIKWAD SONALI CHANDRAKANT')");
+mysql_query("insert into ty_class values('94','BHAGAT SANJAY DAGADU')");
+mysql_query("insert into ty_class values('95','KAMBLE KRISHNAT  VILAS')");
+mysql_query("insert into ty_class values('96','SHINDE POOJA ANIL')");

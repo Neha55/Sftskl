@@ -1,0 +1,464 @@
+@charset "utf-8";
+.wrapper{
+	/*margin-left:100px;*/
+	margin-right:0px;
+	/*background-color:#0CF;*/
+	/*background-image:url(../MobWeb/images/aa.jpg);
+
+	width:1110px;
+	height:250px;*/
+}
+
+
+.headerpart{
+/*	margin-left:120px;*/
+	margin-right:0px;
+	margin-top:0px;
+}
+#img
+{
+/*	margin-left:120px;*/
+	margin-top:20px;
+	padding:0;
+	
+/*	background-image: url(../Emi350.jpg);*/
+}
+
+#navmenu {
+	margin:0;
+	padding:0;
+}
+
+#navmenu ul {
+	margin:0;
+	padding:0;
+	line-height:30px;
+	line-width:1332px;
+}
+#navmenu li {
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:left;
+	position:relative;
+	background-color:#808080;
+}
+#navmenu ul li a{
+	text-align:center;
+	text-decoration:none;
+	font:"MS Serif", "New York", serif;
+	height:30px;
+	width:220px;
+	display:block;
+	color: #000;
+	border:1px solid #808080;
+	text-shadow:1px 1px 1px #000;
+	overflow:visible;
+}
+
+#navmenu ul ul {
+	position:absolute;
+	visibility:hidden;
+	top:32px;
+	overflow:visible;
+}
+
+#navmenu ul li:hover ul{
+	visibility:visible;
+	overflow:visible;	
+}
+
+#navmenu li:hover{
+	background-color:#69C;
+	overflow:visible;
+}
+
+#navmenu ul li:hover ul li:hover{
+	background-color:#C0C0C0;
+	color:#0CF;	
+	overflow:visible;
+}
+
+#navmenu a:hover{
+	color:#000;	
+	overflow:visible;
+}
+#login
+ {
+	margin:0;
+	padding:0;
+}
+
+#login ul {
+	margin:10px;
+	padding:20px;
+}
+#login li {
+	
+	margin:0;
+	padding-right:64px;
+	list-style:circle;
+	float:right;
+	position:relative;
+	background-color:none;
+}
+
+#login ul li a
+{
+	text-decoration:none;
+	text-align:center;
+	font:"MS Serif", "New York", serif;
+
+	color: #F00;
+
+	text-shadow:1px 1px #000;
+}
+#login ul ul {
+	position:absolute;
+	visibility:collapse;/*hidden*/
+	
+}
+
+
+#login a:hover{
+	color:#000;	
+}
+#phn
+{
+	margin:0;
+	padding:0;
+		
+}
+
+/*#phn ul
+{
+	margin:0;
+	padding:0;
+	line-height:30px;
+	line-width:1332px;
+}*/
+#phn li {
+	margin-left:0px;
+	padding:0;
+	list-style:none;
+	background-color:#C9C9C9;
+	font:"MS Serif", "New York", serif;
+	display: block;
+}
+
+#phn img
+{
+	margin-left:100px;
+}
+#img1
+{
+	
+	margin-left:0;
+	margin-right:0;
+	
+}
+
+#new li
+{
+	margin-left:90px;
+
+	list-style:none;
+}
+
+#user_details
+{
+	margin-left:130px;
+}
+#user_details ul
+{
+	margin-left:0px;	
+}
+#user_details ul li
+{
+	list-style:none;	
+}
+#contact_details
+{
+	margin-left:130px;
+	padding:0;
+}
+#contact_details ul li
+{
+	list-style:none;
+}
+#per_info
+{
+	margin-left:130px;
+	padding:0;	
+}
+#per_info ul li
+{
+	list-style:none;
+}
+#button
+{
+	margin-left:460px;	
+}
+#margin ul li
+{
+	list-style:none;
+}
+
+#as
+{
+		margin-left:100px;
+
+width:151px;
+height:300px;
+background-image:url(../images/New%20Arrivals/NokiaX.jpg);
+-webkit-transition:width 2s, height 2s, -webkit-transform 2s; /* For Safari 3.1 to 6.0 */
+transition:width 2s, height 2s, transform 2s;
+}
+#as:hover
+{
+width:151px;
+height:300px;
+-webkit-transform:rotate(360deg); /* Chrome, Safari, Opera */
+transform:rotate(360deg);
+}
+
+
+.clearFloat {
+	clear:both;
+	margin:0;
+	padding:0;
+}
+
+.footer{
+	width:1110px;
+	height:200px;
+	background-color:#000;
+	color:#FFF;
+	font-size:36px;
+	font-family:"MS Serif", "New York", serif;
+	text-align:center;
+	margin-left:100px;
+	margin-right:0px;
+	margin-top:10px;
+}
+<p>@charset "utf-8";<br>
+  .wrapper{<br>
+  /*margin-left:100px;*/<br>
+  margin-right:0px;<br>
+  /*background-color:#0CF;*/<br>
+  /*background-image:url(../MobWeb/images/aa.jpg);</p>
+<p> width:1110px;<br>
+  height:250px;*/<br>
+  }<br>
+</p>
+<p>.headerpart{<br>
+  /*	margin-left:120px;*/<br>
+  margin-right:0px;<br>
+  margin-top:0px;<br>
+  }<br>
+  #img<br>
+  {<br>
+  /*	margin-left:120px;*/<br>
+  margin-top:20px;<br>
+  padding:0;<br>
+  <br>
+  /*	background-image: url(../Emi350.jpg);*/<br>
+  }</p>
+<p>#navmenu {<br>
+  margin:0;<br>
+  padding:0;<br>
+  }</p>
+<p>#navmenu ul {<br>
+  margin:0;<br>
+  padding:0;<br>
+  line-height:30px;<br>
+  line-width:1332px;<br>
+  }<br>
+  #navmenu li {<br>
+  margin:0;<br>
+  padding:0;<br>
+  list-style:none;<br>
+  float:left;<br>
+  position:relative;<br>
+  background-color:#808080;<br>
+  }<br>
+  #navmenu ul li a{<br>
+  text-align:center;<br>
+  text-decoration:none;<br>
+  font:"MS Serif", "New York", serif;<br>
+  height:30px;<br>
+  width:220px;<br>
+  display:block;<br>
+  color: #000;<br>
+  border:1px solid #808080;<br>
+  text-shadow:1px 1px 1px #000;<br>
+  overflow:visible;<br>
+  }</p>
+<p>#navmenu ul ul {<br>
+  position:absolute;<br>
+  visibility:hidden;<br>
+  top:32px;<br>
+  overflow:visible;<br>
+  }</p>
+<p>#navmenu ul li:hover ul{<br>
+  visibility:visible;<br>
+  overflow:visible; <br>
+  }</p>
+<p>#navmenu li:hover{<br>
+  background-color:#69C;<br>
+  overflow:visible;<br>
+  }</p>
+<p>#navmenu ul li:hover ul li:hover{<br>
+  background-color:#C0C0C0;<br>
+  color:#0CF; <br>
+  overflow:visible;<br>
+  }</p>
+<p>#navmenu a:hover{<br>
+  color:#000; <br>
+  overflow:visible;<br>
+  }<br>
+  #login<br>
+  {<br>
+  margin:0;<br>
+  padding:0;<br>
+  }</p>
+<p>#login ul {<br>
+  margin:10px;<br>
+  padding:20px;<br>
+  }<br>
+  #login li {<br>
+  <br>
+  margin:0;<br>
+  padding-right:64px;<br>
+  list-style:circle;<br>
+  float:right;<br>
+  position:relative;<br>
+  background-color:none;<br>
+  }</p>
+<p>#login ul li a<br>
+  {<br>
+  text-decoration:none;<br>
+  text-align:center;<br>
+  font:"MS Serif", "New York", serif;</p>
+<p> color: #F00;</p>
+<p> text-shadow:1px 1px #000;<br>
+  }<br>
+  #login ul ul {<br>
+  position:absolute;<br>
+  visibility:collapse;/*hidden*/<br>
+  <br>
+  }<br>
+</p>
+<p>#login a:hover{<br>
+  color:#000; <br>
+  }<br>
+  #phn<br>
+  {<br>
+  margin:0;<br>
+  padding:0;<br>
+  <br>
+  }</p>
+<p>/*#phn ul<br>
+  {<br>
+  margin:0;<br>
+  padding:0;<br>
+  line-height:30px;<br>
+  line-width:1332px;<br>
+  }*/<br>
+  #phn li {<br>
+  margin-left:0px;<br>
+  padding:0;<br>
+  list-style:none;<br>
+  background-color:#C9C9C9;<br>
+  font:"MS Serif", "New York", serif;<br>
+  display: block;<br>
+  }</p>
+<p>#phn img<br>
+  {<br>
+  margin-left:100px;<br>
+  }<br>
+  #img1<br>
+  {<br>
+  <br>
+  margin-left:0;<br>
+  margin-right:0;<br>
+  <br>
+  }</p>
+<p>#new li<br>
+  {<br>
+  margin-left:90px;</p>
+<p> list-style:none;<br>
+  }</p>
+<p>#user_details<br>
+  {<br>
+  margin-left:130px;<br>
+  }<br>
+  #user_details ul<br>
+  {<br>
+  margin-left:0px; <br>
+  }<br>
+  #user_details ul li<br>
+  {<br>
+  list-style:none; <br>
+  }<br>
+  #contact_details<br>
+  {<br>
+  margin-left:130px;<br>
+  padding:0;<br>
+  }<br>
+  #contact_details ul li<br>
+  {<br>
+  list-style:none;<br>
+  }<br>
+  #per_info<br>
+  {<br>
+  margin-left:130px;<br>
+  padding:0; <br>
+  }<br>
+  #per_info ul li<br>
+  {<br>
+  list-style:none;<br>
+  }<br>
+  #button<br>
+  {<br>
+  margin-left:460px; <br>
+  }<br>
+  #margin ul li<br>
+  {<br>
+  list-style:none;<br>
+  }</p>
+<p>#as<br>
+  {<br>
+  margin-left:100px;</p>
+<p>width:151px;<br>
+  height:300px;<br>
+  background-image:url(../images/New%20Arrivals/NokiaX.jpg);<br>
+  -webkit-transition:width 2s, height 2s, -webkit-transform 2s; /* For Safari 3.1 to 6.0 */<br>
+  transition:width 2s, height 2s, transform 2s;<br>
+  }<br>
+  #as:hover<br>
+  {<br>
+  width:151px;<br>
+  height:300px;<br>
+  -webkit-transform:rotate(360deg); /* Chrome, Safari, Opera */<br>
+  transform:rotate(360deg);<br>
+  }<br>
+</p>
+<p>.clearFloat {<br>
+  clear:both;<br>
+  margin:0;<br>
+  padding:0;<br>
+  }</p>
+<p>.footer{<br>
+  width:1110px;<br>
+  height:200px;<br>
+  background-color:#000;<br>
+  color:#FFF;<br>
+  font-size:36px;<br>
+  font-family:"MS Serif", "New York", serif;<br>
+  text-align:center;<br>
+  margin-left:100px;<br>
+  margin-right:0px;<br>
+  margin-top:10px;<br>
+  }<br>
+</p>
